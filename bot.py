@@ -44,7 +44,7 @@ HELP_TEXT = """
 """
 ABOUT_TEXT = """
 - **Bot :** `@upl04d3rbot`
-- **Creator :** [AvishkarPatil](https://telegram.me/uninstali)
+- **Creator :** [@uninstali](https://telegram.me/uninstali)
 __MᴀɪɴTᴀɪɴᴇᴅ Bʏ__ :** @uninstali
 """
 
